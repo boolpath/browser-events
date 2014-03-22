@@ -1,0 +1,15 @@
+{
+    "name": "browser-events",
+    "description": "Event emitters in the browser",
+    "homepage": "https://github.com/jorgezaccaro/browser-events",
+    "author": {
+        "name": "Jorge Zaccaro",
+        "email": "jorgezaccaro@gmail.com",
+        "url": "https://github.com/jorgezaccaro"
+    },
+    "version": "0.0.1",
+    "license": "MIT",
+    "depedencies": {},
+    "keywords": ["browser", "events", "emitters"],
+    "main": "browser-events.js"
+}
